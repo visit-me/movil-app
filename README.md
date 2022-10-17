@@ -4,7 +4,7 @@
 
 |        Rol        |   Nombre    |       Contacto      |
 |-----------        | --------    | -----------      |
-| Analista|    integrante 1    |     mail@gmail.com    |
+| Analista|    Edwin Timaná    |     edwinatb1998@gmail.com    |
 |Product owner|   Gabriel Romero    | gabrielhro10@gmail.com |
 |Administrador del servidor |     Juan Roncancio |      sbm029@gmail.com |
 |Desarrollador|   jhonnier castro  |   Jhonnier_199@hotmail.com  |
