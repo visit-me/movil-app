@@ -6,7 +6,7 @@
 |-----------        | --------    | -----------      |
 | Analista|    integrante 1    |     mail@gmail.com    |
 |Product owner|   Gabriel Romero    | gabrielhro10@gmail.com |
-|Administrador del servidor |     integrante 3 |      mail@gmail.com |
+|Administrador del servidor |     Juan Roncancio |      sbm029@gmail.com |
 |Desarrollador|   jhonnier castro  |   Jhonnier_199@hotmail.com  |
 |Scrum Master|   Tulio Rangel   |  tjrn20@hotmail.com  |
 
